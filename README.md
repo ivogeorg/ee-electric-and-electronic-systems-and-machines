@@ -13,6 +13,7 @@ Table of Contents
 
 
 ## EET 2000 Topics
+[[toc](#table-of-contents)]
 
 1. Introduction (review from physics)    
    1. Basic Circuit Components  
@@ -70,6 +71,7 @@ Table of Contents
 13. Motors and Laboratory  
 
 ## EET 2000 Learning Objectives
+[[toc](#table-of-contents)]
 
 1. Utilize Ohm's law, Kirchoff's Voltage and Current Laws, Thevenin and Norton conversions to analyze AC and DC circuits and determine the theoretical value for current, voltage, power and resistance in AC and DC series.  
 
@@ -80,6 +82,7 @@ generated models.
 
 
 ## SSE 2100 Topics
+[[toc](#table-of-contents)]
 
 1. Introduction
    1. Overview of Electrical Engineering
@@ -127,6 +130,7 @@ generated models.
 7. Trends of Development in Electronic Systems
 
 ## SSE 2100 Learning Objectives
+[[toc](#table-of-contents)]
 
 1. Utilize Ohm's law, Kirchoffs Voltage and Current Laws, Network Theorems to analyze AC and DC circuits and determine the theoretical value for current, voltage, power and resistance in circuits.  
 
