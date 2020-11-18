@@ -1,6 +1,16 @@
 # Electric and Electronic Systems and Machines
 
-Combined curriculum for EET 2000 and SSE 2100 at MSUD-EAET
+Combined curriculum for EET 2000 and SSE 2100 at MSUD-EAET.  
+
+Table of Contents
+=================
+
+* [Electric and Electronic Systems and Machines](#electric-and-electronic-systems-and-machines)
+  * [EET 2000 Topics](#eet-2000-topics)
+  * [EET 2000 Learning Objectives](#eet-2000-learning-objectives)
+  * [SSE 2100 Topics](#sse-2100-topics)
+  * [SSE 2100 Learning Objectives](#sse-2100-learning-objectives)
+
 
 ## EET 2000 Topics
 
