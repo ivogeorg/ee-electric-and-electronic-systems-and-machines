@@ -36,6 +36,8 @@ Table of Contents
 [[toc](#table-of-contents)]
 
 ### 1. Introduction (review from physics)    
+[[toc](#table-of-contents)]
+
 1. Basic Circuit Components  
 2. Electrical Units  
 3. Scientific Notation  
@@ -56,6 +58,8 @@ Table of Contents
 8. Power  
 
 ### 2. Series Circuits    
+[[toc](#table-of-contents)]
+
 1. Resistors in Series  
 2. Voltage Sources in Series  
 3. Kirchoff's V oltage Law  
@@ -65,30 +69,42 @@ Table of Contents
 7. Series Circuit Laboratory  
 
 ### 3. Parallel Circuits  
+[[toc](#table-of-contents)]
+
 1. Resistor in Parallel  
 2. Kirchoff's Current Law  
 3. Power  
 4. Parallel Circuit Laboratory  
 
 ### 4. Series-Parallel Circuits and Laboratory  
+[[toc](#table-of-contents)]
 
 ### 5. Thevenin's Theorem and Laboratory  
+[[toc](#table-of-contents)]
 
 ### 6. Magnetism and Electromagnetism  
+[[toc](#table-of-contents)]
 
 ### 7. A.C. Waveforms and Phasors and Laboratory   
+[[toc](#table-of-contents)]
 
 ### 8. Capacitors and Laboratory  
+[[toc](#table-of-contents)]
 
 ### 9. Inductors and Demonstration Laboratory  
+[[toc](#table-of-contents)]
 
 ### 10. Transformers and Demonstration Laboratory  
+[[toc](#table-of-contents)]
 
 ### 11. Frequency Response and Demonstration Laboratory  
+[[toc](#table-of-contents)]
 
 ### 12. Pulse Response and Demonstration Laboratory  
+[[toc](#table-of-contents)]
 
 ### 13. Motors and Laboratory  
+[[toc](#table-of-contents)]
 
 ## EET 2000 Learning Objectives
 [[toc](#table-of-contents)]
@@ -105,6 +121,8 @@ generated models.
 [[toc](#table-of-contents)]
 
 ### 1. Introduction
+[[toc](#table-of-contents)]
+
 1. Overview of Electrical Engineering
 2. Circuits, Currents, and V oltages
 3. Power and Energy
@@ -114,6 +132,8 @@ generated models.
 7. Introduction to Circuits
 
 ### 2. Resistive Circuits
+[[toc](#table-of-contents)]
+
 1. Resistances in Series and Parallel
 2. Network Analysis by Using Series and Parallel Equivalents
 3. V oltage-Divider and Current-Divider Circuits
@@ -122,12 +142,16 @@ generated models.
 6. Superposition Principle
 
 ### 3. Inductance and Capacitance
+[[toc](#table-of-contents)]
+
 1. Capacitance
 2. Capacitances in Series and Parallel
 3. Inductance
 4. Inductances in Series and Parallel 
    
 ### 4. Steady-State Sinusoidal Analysis
+[[toc](#table-of-contents)]
+
 1. Sinusoidal Currents and Voltages
 2. Phasors
 3. Complex Impedances
@@ -137,17 +161,22 @@ generated models.
 7. Balanced Three-Phase Circuits
 
 ### 5. Logic Circuits
+[[toc](#table-of-contents)]
+
 1. Basic Logic Concepts
 2. Representation ofNumerical Data in Binary Form
 3. Combinatorial Logic Circuits
 4. Synthesis of Logic Circuits
 
 ### 6. Computers and Microcontrollers 
+[[toc](#table-of-contents)]
+
 1. Computer Organization 
 2. Memory Types
 3. Digital Process Control
 
 ### 7. Trends of Development in Electronic Systems
+[[toc](#table-of-contents)]
 
 ## SSE 2100 Learning Objectives
 [[toc](#table-of-contents)]
