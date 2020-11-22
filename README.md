@@ -20,6 +20,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       1. Study.  
       2. Apply.  
       3. Present.  
+4. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
 
 ## Content 
      
