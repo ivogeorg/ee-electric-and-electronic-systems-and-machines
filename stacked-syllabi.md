@@ -62,8 +62,8 @@ Table of Contents
 
 1. Resistors in Series  
 2. Voltage Sources in Series  
-3. Kirchoff's V oltage Law  
-4. V oltage Divider   
+3. Kirchoff's Voltage Law  
+4. Voltage Divider   
 5. Power  
 6. Ground  
 7. Series Circuit Laboratory  
@@ -124,7 +124,7 @@ generated models.
 [[toc](#table-of-contents)]
 
 1. Overview of Electrical Engineering
-2. Circuits, Currents, and V oltages
+2. Circuits, Currents, and Voltages
 3. Power and Energy
 4. Kirchhoffs Current Law
 5. Kirchhoffs Voltage Law
@@ -136,7 +136,7 @@ generated models.
 
 1. Resistances in Series and Parallel
 2. Network Analysis by Using Series and Parallel Equivalents
-3. V oltage-Divider and Current-Divider Circuits
+3. Voltage-Divider and Current-Divider Circuits
 4. Mesh-Current Analysis
 5. Thevenin and Norton Equivalent Circuits
 6. Superposition Principle
