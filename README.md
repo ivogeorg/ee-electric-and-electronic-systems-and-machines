@@ -21,6 +21,10 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       2. Apply.  
       3. Present.  
 4. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
+5. Apart from generally personalized paths through the curriculum with identified curricular targets, variation of content selection, depth, and specialization (e.g. MET or SSE on EET curriculum) relevance can be achieved by tuning the Study, Apply, and Present sections. For full variational compositionality:
+   1. (STEMGraph) Highest conceptual granularity has to underly the curricular materials, with full 360° progressional connectivity.    
+   2. (LPs) Compositionality will be achieved by specialization-specific selection of the curricular targets. The natural connecitvity between targets will serve as the personalized path variational space.  
+   3. (depth control) The high granularity will also allow depth-sensitive target selection. There can be different Apply requirements depending on the depth. The difference may be of the kind between a straighforward hands-on applicative exercise on a concept, and a general proof of the concept, these two defining different levels of local density of the knowledge space in the vicinity of the concept. For example, if the concept is Thevenin's equivalence theorem, the former may be solving a circuit and the latter a [proof](https://spinningnumbers.org/a/thevenin-proof.html).    
 
 ## Content 
      
@@ -28,7 +32,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    1. Recommended texts from syllabi.  
    2. Reasonable other sources.  
 2. Mine:
-   1. Syllabi & curricula.  
+   1. Syllabi & curricula (e.g. [Stanford Engineering Undergraduate Handbook materials](https://ughb.stanford.edu/plans-program-sheets/flowcharts-and-plans).  
    2. Wikipedia & other online references and encyclopaedias.  
    3. Videos, lectures, books, and courses.  
    4. OER (OpenTextbooks, LibreTexts, etc.).  
