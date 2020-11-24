@@ -32,7 +32,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    
 6. Experiment:
    1. Start from two syllabi separately.  
-   2. For each syllabus, build STEMGraph and drive reduction to maximum conceptual granularity, with prerequisites, goals, and extensions.  
+   2. For each syllabus, build STEMGraph (multi-modal non-dyadic conceptual graph) and drive reduction to maximum conceptual granularity, with prerequisites, goals, and extensions.  
    3. Match, merge, overlay, and visualize.  
    4. [Design spike] Redesign process from syllabi. Goal is to merge an arbitrary set of syllabi, with arbitrary overlaps. No curriculum element should be left out for lack of a way to integrate. Integration might require realignment, stretching for smoothness and cognitive load, and various structural adjustments.      
    5. [Discover] Create progression happy paths for LABOT.  
