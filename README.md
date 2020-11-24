@@ -5,11 +5,13 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
 ## Approach
 
 1. Note that this is an overview course for non-majors, but still engineers. MET and SSE students learning about electricity, circuits, and related topics.  
+
 2. From curriculum paths:
    1. Identify level of general preparation (for effectiveness during progression). 
    2. Establish reasonable expectations (of learning capacity and work ethic).  
    3. Concrete prerequisites (for attachment points and, if necessary, rapid introduction and/or review).  
    4. Select target forward attachment points (for creating a solid basis for follow-on curriculum elements).  
+
 3. Content general matter:
    1. Prerequisites should be independent progressions. These include:  
       1. Prerequisite courses. Should have been covered before the beginning of course, but may need to be incorporated to create contact points.    
@@ -20,11 +22,20 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       1. Study.  
       2. Apply.  
       3. Present.  
+
 4. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
+
 5. Apart from generally personalized paths through the curriculum with identified curricular targets, variation of content selection, depth, and specialization (e.g. MET or SSE on EET curriculum) relevance can be achieved by tuning the Study, Apply, and Present sections. For full variational compositionality:
    1. (STEMGraph) Highest conceptual granularity has to underly the curricular materials, with full 360° progressional connectivity.    
    2. (LPs) Compositionality will be achieved by specialization-specific selection of the curricular targets. The natural connecitvity between targets will serve as the personalized path variational space.  
-   3. (depth control) The high granularity will also allow depth-sensitive target selection. There can be different Apply requirements depending on the depth. The difference may be of the kind between a straighforward hands-on applicative exercise on a concept, and a general proof of the concept, these two defining different levels of local density of the knowledge space in the vicinity of the concept. For example, if the concept is Thevenin's equivalence theorem, the former may be solving a circuit and the latter a [proof](https://spinningnumbers.org/a/thevenin-proof.html).    
+   3. (depth control) The high granularity will also allow depth-sensitive target selection. There can be different Apply requirements depending on the depth. The difference may be of the kind between a straighforward hands-on applicative exercise on a concept, and a general proof of the concept, these two defining different levels of local density of the knowledge space in the vicinity of the concept. For example, if the concept is Thevenin's equivalence theorem, the former may be solving a circuit and the latter a [proof](https://spinningnumbers.org/a/thevenin-proof.html).  
+   
+6. Experiment:
+   1. Start from two syllabi separately.  
+   2. For each syllabus, build STEMGraph and drive reduction to maximum conceptual granularity, with prerequisites, goals, and extensions.  
+   3. Match, merge, overlay, and visualize.  
+   4. [Design spike] Redesign process from syllabi. Goal is to merge an arbitrary set of syllabi, with arbitrary overlaps. No curriculum element should be left out for lack of a way to integrate. Integration might require realignment, stretching for smoothness and cognitive load, and various structural adjustments.      
+   5. [Discover] Create progression happy paths for LABOT.  
 
 ## Content 
      
