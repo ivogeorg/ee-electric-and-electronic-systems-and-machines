@@ -22,15 +22,31 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       1. Study.  
       2. Apply.  
       3. Present.  
+      
+4. From book:
+   1. Digest slides and use to seed the STEMGraph.    
+   2. STEMGraph should dynamically update to achieve the "best" representation. What are the _criteria_? What is the _training signal_?  
+      1. Homogeneous granularity, which can be derived from:
+         1. Zone of proximal development criteria.  
+         2. Learning spaces criteria.  
+         3. Local hypergraph connectivity. _Here, explore the non-dyadic graph theory SOTA in the context of representing multi-modal concepts._  
+      2. The "learnability" signal should:
+         1. Come back from interaction with human learners and may lend itself to simulational pretraining (that is, in dialog between two bots).  
+         2. Provide discrimination between local graph-structure (graph-pattern) variants.  
+         3. High-granularity conceptual change dynamics data is needed for such focused local graph evolution. _Here, explore the SOTA in:_ 
+            1. _GNNs and connectivity evolution._  
+            2. _Conceptual change research. In particular, [diSessa's latest project](https://gse.berkeley.edu/andrea-disessa), or whatever the SOTA in his thinking on high-granularity conceptual change data is (that is, which contemporary works are citing him)._  
+      3. Cognitive-computational criteria: TBD.  
+   3. The slides are a very rich multi-modal medium, and seemingly a strongly established format for communication of information and teaching (and, supposedly, learning). _Here, investigate if this is a technological artifact or evidence for constrained cognitive efficiency._  
 
-4. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
+5. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
 
-5. Apart from generally personalized paths through the curriculum with identified curricular targets, variation of content selection, depth, and specialization (e.g. MET or SSE on EET curriculum) relevance can be achieved by tuning the Study, Apply, and Present sections. For full variational compositionality:
+6. Apart from generally personalized paths through the curriculum with identified curricular targets, variation of content selection, depth, and specialization (e.g. MET or SSE on EET curriculum) relevance can be achieved by tuning the Study, Apply, and Present sections. For full variational compositionality:
    1. (STEMGraph) Highest conceptual granularity has to underly the curricular materials, with full 360° progressional connectivity.    
    2. (LPs) Compositionality will be achieved by specialization-specific selection of the curricular targets. The natural connecitvity between targets will serve as the personalized path variational space.  
    3. (depth control) The high granularity will also allow depth-sensitive target selection. There can be different Apply requirements depending on the depth. The difference may be of the kind between a straighforward hands-on applicative exercise on a concept, and a general proof of the concept, these two defining different levels of local density of the knowledge space in the vicinity of the concept. For example, if the concept is Thevenin's equivalence theorem, the former may be solving a circuit and the latter a [proof](https://spinningnumbers.org/a/thevenin-proof.html).  
    
-6. Experiment:
+7. Experiment:
    1. Start from two syllabi separately.  
    2. For each syllabus, build STEMGraph (multi-modal non-dyadic conceptual graph) and drive reduction to maximum conceptual granularity, with prerequisites, goals, and extensions.  
    3. Match, merge, overlay, and visualize.  
