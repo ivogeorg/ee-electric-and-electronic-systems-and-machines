@@ -4,7 +4,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
 
 ## Approach
 
-1. Note that this is an overview course for non-majors, but still engineers. MET and SSE students learning about electricity, circuits, and related topics.  
+1. Note that this is an overview course for non-majors, but still engineers. MET and SSE students learning about electricity, circuits, and related topics. MET students diverge toward motors, while SSE students toward electronics and computers.    
 
 2. From curriculum paths:
    1. Identify level of general preparation (for effectiveness during progression). 
@@ -52,6 +52,8 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    3. Match, merge, overlay, and visualize.  
    4. [Design spike] Redesign process from syllabi. Goal is to merge an arbitrary set of syllabi, with arbitrary overlaps. No curriculum element should be left out for lack of a way to integrate. Integration might require realignment, stretching for smoothness and cognitive load, and various structural adjustments.      
    5. [Discover] Create progression happy paths for LABOT.  
+   
+8. Construction grammars will probably be necessary to stitch symbolic (form) and cognitive (meaning) representation (reification?) of concepts!   
 
 ## Content 
      
@@ -72,7 +74,8 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       4. Conceptual graphs, GNNs, knowledge bases, and the whole knowledge-heavy ML ecosystem.  
    3. Digest the content into concept-level 
    4. _This will be an iterative and continous process!!!_  
-   5. Discover and incorporate new sources.  
+   5. Discover and incorporate new sources.   
+4. Adopted book.  
       
 ### Notes on circuits
 
@@ -94,9 +97,9 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
 ### Notes on environment
 
 1. Simulation.  
-   1. [NI Multisim](https://www.google.com/search?q=multisim&oq=multisim&aqs=chrome..69i57j0l6j69i65.1688j0j7&sourceid=chrome&ie=UTF-8):
+   1. [NI Multisim](https://www.multisim.com/):
       1. Based on original Berkeley SPICE.  
-      2. MSUD has license? (**TODO: Ask Kate**)  
+      2. Free license sufficient.  
 2. Oscilloscope.  
    1. Digilent Discovery 
    2. [Instructables DPScope](https://www.instructables.com/DPScope-Build-Your-Own-USBPC-Based-Oscilloscope/).  
