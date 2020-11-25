@@ -54,6 +54,8 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    5. [Discover] Create progression happy paths for LABOT.  
    
 8. Construction grammars will probably be necessary to stitch symbolic (form) and cognitive (meaning) representation (reification?) of concepts!   
+   1. Student naive understanding makes this a dynamic process (link to _conceptual change_) and not a static grammar. _Here, explore the SOTA on "dynamic construction grammars", or, more likely, identify the knowledge gap and the knowledge domains adjacent to it._   
+   2. Rubin Landau's first rule of education rings true here: "Most of education is learning what the words mean; the concepts are usually quite simple once you understand what you are being told." This might well be the key to efficient learning!  
 
 ## Content 
      
