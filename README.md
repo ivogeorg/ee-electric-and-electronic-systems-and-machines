@@ -22,6 +22,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       1. Study.  
       2. Apply.  
       3. Present.  
+      4. Knowledge, _know-how_, skill.  
       
 4. From book:
    1. Digest slides and use to seed the STEMGraph.    
