@@ -4,7 +4,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
 
 ## Approach
 
-1. Note that this is an overview course for non-majors, but still engineers. MET and SSE students learning about electricity, circuits, and related topics. MET students diverge toward motors, while SSE students toward electronics and computers.    
+1. Note that this is an EE overview course for engineering students from mechanical and sustainable systems programs, learning about electricity, circuits, and related topics. After a common core of electromagnetics and analog circuits (R, RC, RL, RLC), MET students diverge toward motors, while SSE students toward electronics and computers.    
 
 2. From curriculum paths:
    1. Identify level of general preparation (for effectiveness during progression). 
@@ -36,7 +36,7 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
          3. High-granularity conceptual change dynamics data is needed for such focused local graph evolution. _Here, explore the SOTA in:_ 
             1. _GNNs and connectivity evolution._  
             2. _Conceptual change research. In particular, [diSessa's latest project](https://gse.berkeley.edu/andrea-disessa), or whatever the SOTA in his thinking on high-granularity conceptual change data is (that is, which contemporary works are citing him)._  
-      3. Cognitive-computational criteria: TBD.  
+      3. Cognitive-computational criteria: TBD (needs research!).  
    3. The slides are a very rich multi-modal medium, and seemingly a strongly established format for communication of information and teaching (and, supposedly, learning). _Here, investigate if this is a technological artifact or evidence for constrained cognitive efficiency._  
 
 5. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
@@ -86,6 +86,8 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
 3. Exercise the ability to identify the function of a circuit from general knowledge and applied analysis.  
 4. Exercise the ability to build a circuit given a blueprint.  
 5. Exercise the ability to design a circuit given a functional specification.  
+6. Particular exercises:
+   1. Construct a resistor network of target resistance given a specific selection and numbers of resistors.  
 
 #### Composition of Apply sections
 
