@@ -43,7 +43,12 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
             2. _Conceptual change research. In particular, [diSessa's latest project](https://gse.berkeley.edu/andrea-disessa), or whatever the SOTA in his thinking on high-granularity conceptual change data is (that is, which contemporary works are citing him)._  
       3. Cognitive-computational criteria: TBD (needs research!).  
    3. The slides are a very rich multi-modal medium, and seemingly a strongly established format for communication of information and teaching (and, supposedly, learning). _Here, investigate if this is a technological artifact or evidence for constrained cognitive efficiency._  
-   4. STEMGraph topics will cover the domain _Electric and Electronic Systems and Machines_, with all its prerequisites (e.g. differential equations, complex numbers, positional numeral systems, etc.), and densely populated with visual aids and exercises.  
+   4. STEMGraph topics will cover the domain _Electric and Electronic Systems and Machines_, with all its prerequisites (e.g. differential equations, complex numbers, positional numeral systems, Turing machines and completeness, etc.), and densely populated with visual aids and exercises.  
+   5. Levels of abstraction will depend:  
+      1. Conceptual density.  
+      2. Summarization for _"glossing over"_ bridging without going into too much depth. Aka _"cantilevered bridging"_.   
+      3. Equivalences with operational notions of _"explanation"_ and _"understanding"_.   
+      4. Mechanisms of curricular progression building, including _"spiral learning"_.   
 
 5. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first, or updated dynamically per the previous point on STEMGraph!   
    1. This should be the most powerful differentiator for faculty and domain experts to rapidly assemble curricular content. _(Use case: Imagine assembling the content for the domain experts/faculty of the Mars University, so they can impose the course/curriculum structure within a couple of days!!!)_  
