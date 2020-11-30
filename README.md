@@ -23,8 +23,12 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
       2. Apply.  
       3. Present.  
       4. Knowledge, _know-how_, skill.  
+         1. Experiment with new names for the step sections:
+            1. Know-what = Study.  
+            2. Know-how = Apply.  
+            3. Know-why... => Richer representation of knowledge and beginning of classification of multi-modal conceptual links!  
       
-4. From book:
+4. From books:
    1. Digest slides and use to seed the STEMGraph.    
    2. STEMGraph should dynamically update to achieve the "best" representation. What are the _criteria_? What is the _training signal_?  
       1. Homogeneous granularity, which can be derived from:
@@ -39,8 +43,11 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
             2. _Conceptual change research. In particular, [diSessa's latest project](https://gse.berkeley.edu/andrea-disessa), or whatever the SOTA in his thinking on high-granularity conceptual change data is (that is, which contemporary works are citing him)._  
       3. Cognitive-computational criteria: TBD (needs research!).  
    3. The slides are a very rich multi-modal medium, and seemingly a strongly established format for communication of information and teaching (and, supposedly, learning). _Here, investigate if this is a technological artifact or evidence for constrained cognitive efficiency._  
+   4. STEMGraph topics will cover the domain _Electric and Electronic Systems and Machines_, with all its prerequisites (e.g. differential equations, complex numbers, positional numeral systems, etc.), and densely populated with visual aids and exercises.  
 
-5. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first!   
+5. Content merging from syllabi will depend on the conceptual granularity, which has to be decided first, or updated dynamically per the previous point on STEMGraph!   
+   1. This should be the most powerful differentiator for faculty and domain experts to rapidly assemble curricular content. _(Use case: Imagine assembling the content for the domain experts/faculty of the Mars University, so they can impose the course/curriculum structure within a couple of days!!!)_  
+   2. The assembly will be a dynamic process, with faculty on one end and domain experts on the other, continually digesting new content and hyperbolic recasting for up-to-date presentation.  
 
 6. Apart from generally personalized paths through the curriculum with identified curricular targets, variation of content selection, depth, and specialization (e.g. MET or SSE on EET curriculum) relevance can be achieved by tuning the Study, Apply, and Present sections. For full variational compositionality:
    1. (STEMGraph) Highest conceptual granularity has to underly the curricular materials, with full 360° progressional connectivity.    
@@ -109,4 +116,4 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    1. Digilent Discovery 
    2. [Instructables DPScope](https://www.instructables.com/DPScope-Build-Your-Own-USBPC-Based-Oscilloscope/).  
    3. Other even simpler.
-      1. **TODO:** Compose a multi-part project for the course and weave in with the curriculum!!!  
+      1. **TODO:** Compose a multi-part project for the course and weave in with the curriculum!!!   
