@@ -116,6 +116,14 @@ Table of Contents
 3. Write laboratory finding in a concise document comparing theoretical and actual data with computer
 generated models.  
 
+## EET 2000 Missing Material
+[[toc](#table-of-contents)]
+
+_Note: Missing from currently adopted book._  
+
+1. Most major topics in analog circuit design. Source: _Analog Circuit Design_, Hiscocks, 2011.   
+
+2. Major topics in electrical systems. Source: _Electrical Machines, Drives, and Power Systems_, Wildi, 2014.  
 
 ## SSE 2100 Topics
 [[toc](#table-of-contents)]
@@ -191,3 +199,13 @@ generated models.
 
 5. Write laboratory finding in a concise document and present the work, including the results and recommendations, orally.  
 
+## SEE 2100 Missing Material
+[[toc](#table-of-contents)]
+
+_Note: Missing from currently adopted book._  
+
+1. Most major topics in digital electronics. Source: CPE 1040 topics.    
+
+2. Major topics in computing. Source: CPE 1040 topics.    
+
+This already points to a unified STEMGraph for _Electric and Electronics Systems and Machines_.    
