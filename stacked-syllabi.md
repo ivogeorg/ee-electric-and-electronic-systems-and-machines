@@ -2,7 +2,36 @@
 
 Combined curriculum for EET 2000 and SSE 2100 at MSUD-EAET.  
 
+Table of Contents
+=================
 
+* [Electric and Electronic Systems and Machines](#electric-and-electronic-systems-and-machines)
+  * [EET 2000 Topics](#eet-2000-topics)
+    * [1\. Introduction (review from physics)](#1-introduction-review-from-physics)
+    * [2\. Series Circuits](#2-series-circuits)
+    * [3\. Parallel Circuits](#3-parallel-circuits)
+    * [4\. Series\-Parallel Circuits and Laboratory](#4-series-parallel-circuits-and-laboratory)
+    * [5\. Thevenin's Theorem and Laboratory](#5-thevenins-theorem-and-laboratory)
+    * [6\. Magnetism and Electromagnetism](#6-magnetism-and-electromagnetism)
+    * [7\. A\.C\. Waveforms and Phasors and Laboratory](#7-ac-waveforms-and-phasors-and-laboratory)
+    * [8\. Capacitors and Laboratory](#8-capacitors-and-laboratory)
+    * [9\. Inductors and Demonstration Laboratory](#9-inductors-and-demonstration-laboratory)
+    * [10\. Transformers and Demonstration Laboratory](#10-transformers-and-demonstration-laboratory)
+    * [11\. Frequency Response and Demonstration Laboratory](#11-frequency-response-and-demonstration-laboratory)
+    * [12\. Pulse Response and Demonstration Laboratory](#12-pulse-response-and-demonstration-laboratory)
+    * [13\. Motors and Laboratory](#13-motors-and-laboratory)
+  * [EET 2000 Learning Objectives](#eet-2000-learning-objectives)
+  * [EET 2000 Missing Material](#eet-2000-missing-material)
+  * [SSE 2100 Topics](#sse-2100-topics)
+    * [1\. Introduction](#1-introduction)
+    * [2\. Resistive Circuits](#2-resistive-circuits)
+    * [3\. Inductance and Capacitance](#3-inductance-and-capacitance)
+    * [4\. Steady\-State Sinusoidal Analysis](#4-steady-state-sinusoidal-analysis)
+    * [5\. Logic Circuits](#5-logic-circuits)
+    * [6\. Computers and Microcontrollers](#6-computers-and-microcontrollers)
+    * [7\. Trends of Development in Electronic Systems](#7-trends-of-development-in-electronic-systems)
+  * [SSE 2100 Learning Objectives](#sse-2100-learning-objectives)
+  * [SEE 2100 Missing Material](#see-2100-missing-material)
 
 
 ## EET 2000 Topics
