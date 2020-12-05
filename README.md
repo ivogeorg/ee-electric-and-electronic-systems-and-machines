@@ -79,6 +79,14 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    1. Syllabi & curricula
       1. [CE2016](https://www.acm.org/binaries/content/assets/education/ce2016-final-report.pdf).  
       2. [Stanford Engineering Undergraduate Handbook materials](https://ughb.stanford.edu/plans-program-sheets/flowcharts-and-plans).  
+      3. [Open Syllabus Project](https://opensyllabus.org/result/field?id=Engineering).  
+      4. [Libre Texts Engineering](https://eng.libretexts.org/).  
+      5. Concept inventories:
+         1. [Search results 1](https://www.google.com/search?sxsrf=ALeKk00fky_LTPYvKNkS5Bgnoz1nXdV3jQ%3A1607147048054&ei=KB7LX8vqAtm3tQaR84fQBQ&q=concept+inventory+engineering&oq=concept+inventory+engineering&gs_lcp=CgZwc3ktYWIQAzIFCAAQzQI6BAgAEEc6BQgAEJECOgIIADoICC4QxwEQrwE6BggAEBYQHjoICAAQFhAKEB46BQghEKABOgcIIRAKEKABUJM9WPWUAWDmlgFoAHADeACAAWGIAfUMkgECMjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwjLnpqnkbbtAhXZW80KHZH5AVoQ4dUDCA0&uact=5).   
+         2. [Search results 2](https://www.google.com/search?sxsrf=ALeKk01XZhx77m1s_5pC2kt8Kg2rG4uZFg%3A1607147068355&ei=PB7LX6ulFcaO9PwPvpuMgAY&q=concept+inventory&oq=concept+inventory&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHUOXUBlj35wZglOoGaAFwA3gAgAFKiAGNAZIBATKYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwirs_GwkbbtAhVGB50JHb4NA2AQ4dUDCA0&uact=5).   
+      6. NAE:
+         1. [NAE Home](https://www.nae.edu/).  
+         2. [Engineering Education Concept Inventories](https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_072625.pdf).  
    2. Wikipedia & other online references and encyclopaedias.  
    3. Videos, lectures, books, and courses.  
    4. OER (OpenTextbooks, LibreTexts, etc.).  
