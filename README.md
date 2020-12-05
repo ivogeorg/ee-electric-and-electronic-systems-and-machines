@@ -76,7 +76,9 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    1. Recommended texts from syllabi.  
    2. Reasonable other sources.  
 2. Mine:
-   1. Syllabi & curricula (e.g. [Stanford Engineering Undergraduate Handbook materials](https://ughb.stanford.edu/plans-program-sheets/flowcharts-and-plans).  
+   1. Syllabi & curricula
+      1. [CE2016](https://www.acm.org/binaries/content/assets/education/ce2016-final-report.pdf).  
+      2. [Stanford Engineering Undergraduate Handbook materials](https://ughb.stanford.edu/plans-program-sheets/flowcharts-and-plans).  
    2. Wikipedia & other online references and encyclopaedias.  
    3. Videos, lectures, books, and courses.  
    4. OER (OpenTextbooks, LibreTexts, etc.).  
