@@ -132,3 +132,9 @@ Starting with 2 stacked classes with about 65% overlap, build a curriculum graph
    2. [Instructables DPScope](https://www.instructables.com/DPScope-Build-Your-Own-USBPC-Based-Oscilloscope/).  
    3. Other even simpler.
       1. **TODO:** Compose a multi-part project for the course and weave in with the curriculum!!!   
+
+## Lab kit
+
+[Link to spreadsheet](https://docs.google.com/spreadsheets/d/1W918foP5wVdoGc0UrUR1rpVwAR0V15ST5ITM8y5eUp4/edit#gid=0)
+
+Theory --> Simulation --> Physical circuit measurements
